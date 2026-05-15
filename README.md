@@ -21,7 +21,7 @@ This repository houses the documentation and project summary for a high-accuracy
 ## 📁 Repository Structure
 ```text
 ├── documents/
-│   └── Image_Classification_Summary.pdf  # Comprehensive technical summary report
+│   └── Internship_report.pdf  # Comprehensive technical summary report
 └── README.md
 ```
 
@@ -30,4 +30,4 @@ This repository houses the documentation and project summary for a high-accuracy
 ## 📄 Project Documentation & Visuals
 The comprehensive technical overview—complete with accuracy/loss training curves, model architecture logs, confusion matrices, and the Flask web interface interface screenshots—is available below:
 
-👉 **[View the Technical Project Summary PDF](./documents/FCW_Image_Classification_Summary.pdf)**
+👉 **[View the Technical Project Summary PDF](./documents/Internship_report.pdf)**
